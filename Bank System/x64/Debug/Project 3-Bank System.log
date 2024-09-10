@@ -1,0 +1,57 @@
+﻿  Project 3-Bank System.cpp
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsString.h(34,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsString.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsString.h(48,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsString.h(149,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsString.h(237,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsString.h(272,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsUtil.h(64,2): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsUser.h(176,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsUser.h(25,9):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsBankClient.h(353,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsBankClient.h(21,9):
+  see declaration of 'clsBankClient::stTransferLog'
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsBankClient.h(65,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsBankClient.h(195,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsBankClient.h(322,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsCurrencyExchangeMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsCurrency.h(22,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsCurrencyCalculatorScreen.h(13,48): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsCurrencyCalculatorScreen.h(13,48): warning C4244:         with
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsCurrencyCalculatorScreen.h(13,48): warning C4244:         [
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsCurrencyCalculatorScreen.h(13,48): warning C4244:             T=double
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsCurrencyCalculatorScreen.h(13,48): warning C4244:         ]
+  (compiling source file 'Project%203-Bank%20System.cpp')
+  
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsBankClient.h(279,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\Project 3-Bank System\clsUser.h(332,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project 3-Bank System.vcxproj -> D:\A new beginning 💪\C++\11 - OOP Applications\Project3-Bank System\x64\Debug\Project 3-Bank System.exe
